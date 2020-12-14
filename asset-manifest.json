@@ -1,22 +1,20 @@
 {
   "files": {
     "main.css": "/ankitpatidar/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/ankitpatidar/static/js/main.325191fa.chunk.js",
-    "main.js.map": "/ankitpatidar/static/js/main.325191fa.chunk.js.map",
-    "runtime-main.js": "/ankitpatidar/static/js/runtime-main.7112e694.js",
-    "runtime-main.js.map": "/ankitpatidar/static/js/runtime-main.7112e694.js.map",
-    "static/js/2.f2566357.chunk.js": "/ankitpatidar/static/js/2.f2566357.chunk.js",
-    "static/js/2.f2566357.chunk.js.map": "/ankitpatidar/static/js/2.f2566357.chunk.js.map",
-    "static/js/3.0c667cbb.chunk.js": "/ankitpatidar/static/js/3.0c667cbb.chunk.js",
-    "static/js/3.0c667cbb.chunk.js.map": "/ankitpatidar/static/js/3.0c667cbb.chunk.js.map",
+    "main.js": "/ankitpatidar/static/js/main.b9d11b45.chunk.js",
+    "main.js.map": "/ankitpatidar/static/js/main.b9d11b45.chunk.js.map",
+    "runtime-main.js": "/ankitpatidar/static/js/runtime-main.5ceed7ab.js",
+    "runtime-main.js.map": "/ankitpatidar/static/js/runtime-main.5ceed7ab.js.map",
+    "static/js/2.72b322e5.chunk.js": "/ankitpatidar/static/js/2.72b322e5.chunk.js",
+    "static/js/2.72b322e5.chunk.js.map": "/ankitpatidar/static/js/2.72b322e5.chunk.js.map",
     "index.html": "/ankitpatidar/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/ankitpatidar/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.f2566357.chunk.js.LICENSE.txt": "/ankitpatidar/static/js/2.f2566357.chunk.js.LICENSE.txt"
+    "static/js/2.72b322e5.chunk.js.LICENSE.txt": "/ankitpatidar/static/js/2.72b322e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7112e694.js",
-    "static/js/2.f2566357.chunk.js",
+    "static/js/runtime-main.5ceed7ab.js",
+    "static/js/2.72b322e5.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.325191fa.chunk.js"
+    "static/js/main.b9d11b45.chunk.js"
   ]
 }
