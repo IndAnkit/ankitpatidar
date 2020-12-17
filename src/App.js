@@ -1,11 +1,14 @@
+import Header from "./components/header/Header";
+import './App.css';
+import NodeDef from "./topics/defination/NodeDef";
 
 function App() {
   return (
-    <div className="App" style={{ display: "flex", justifyContent: "center", alignItems: 'center' }}>
+    <div className="App">
       <header className="App-header">
-        <h1>Ankit Patidar</h1>
-        <h3>Flutter developer | React Js |Core Java </h3>
+        <Header />
       </header>
+      <NodeDef />
     </div>
   );
 }
