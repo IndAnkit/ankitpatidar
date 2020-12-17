@@ -9,7 +9,7 @@ body {
 .container {
   margin: 10px 20px;
   border-radius: 10px;
-  padding: 10px;
+  padding: 10px 20px;
   border: 1px solid whitesmoke;
   color: antiquewhite;
 
@@ -20,6 +20,7 @@ body {
 }
 
 .container > p {
+
   font-size: 22px;
   color: antiquewhite;
 }
