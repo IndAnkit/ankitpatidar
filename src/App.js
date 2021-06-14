@@ -1,15 +1,18 @@
-import Header from "./components/header/Header";
-import './App.css';
-import NodeDef from "./topics/defination/NodeDef";
+import React from "react";
+import NavBar from "./components/NavBar";
+import LandingPage from "./screens/LandingPage";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import LogIn from "./screens/LogIn";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <Header />
-      </header>
-      <NodeDef />
-    </div>
+    <Router>
+      <NavBar />
+      <Switch>
+        <Route exact path={"/"} component={LandingPage} />
+        <Route exact path={"/login"} component={LogIn} />
+      </Switch>
+    </Router>
   );
 }
 
